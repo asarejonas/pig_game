@@ -24,7 +24,7 @@ This is a simple Pig Game implemented using HTML, CSS, and JavaScript. The game 
 
 		     ## Getting Started
 
-		     1. Clone the repository: `git clone https://github.com/sabimbi447/HTML_CSS/tree/main/pig_game`
+		     1. Clone the repository: `git clone https://github.com/sabimbi447/pig_game.git`
 		     2. Open `index.html` in your web browser to start playing.
 
 		     ## Technologies Used
@@ -35,7 +35,7 @@ This is a simple Pig Game implemented using HTML, CSS, and JavaScript. The game 
 
 		     ## Demo
 
-		     A live demo of the game can be found [here](link-to-live-demo).
+		     A live demo of the game can be found [here](https://pig-game-001.netlify.app/).
 
 		     ## Credits
 
@@ -47,4 +47,4 @@ This is a simple Pig Game implemented using HTML, CSS, and JavaScript. The game 
 
 		     ---
 
-		     Replace placeholders like `[link-to-live-demo]`, `[sabimbi447]`, and add any additional sections or details as needed.
+		     Replace placeholders like `[https://pig-game-001.netlify.app/]`, `[sabimbi447]`, and add any additional sections or details as needed.
